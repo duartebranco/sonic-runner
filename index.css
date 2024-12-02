@@ -33,6 +33,10 @@ html, body {
   src: url('assets/fonts/Gaslight Regular.ttf') format('truetype');
 }
 
+.text-center {
+  text-align: center;
+}
+
 
 /* Offline page */
 
