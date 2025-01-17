@@ -2,6 +2,8 @@
 
 The trex runner game extracted from chrome offline err page but with Sonic the Hedgehog!!
 
+Made for [Hack Club's High Seas](https://github.com/hackclub/high-seas) !!
+
 ## Dependencies
 - [trex runner game](https://github.com/wayou/t-rex-runner/)
 - [Sonic sprites](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/sheet/161732/)
